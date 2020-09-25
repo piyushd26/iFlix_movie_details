@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="skyblue">#31C5B4</color>
+    <color name="red">#CE2D2D</color>
+
+
+    <color name="MobiGenixBlue">#4682CA</color>
+    <color name="MobiGenixLightBlue">#B0C0D5</color>
+    <color name="MobiGenixWhite">#ffffff</color>
+    <color name="MobiGenixGreys">#C2C0C0</color>
+    <color name="MobiGenixBlack">#181818</color>
+
+</resources>
